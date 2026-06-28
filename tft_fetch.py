@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_KEY   = None # for uploading to github never write your api key 
+API_KEY   = "" # for uploading to github never write your api key 
 GAME_NAME = "Spring"
 TAG_LINE  = "cha"
 PLATFORM  = "na1"
